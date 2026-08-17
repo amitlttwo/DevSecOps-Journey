@@ -1,4 +1,4 @@
-# 🚀 DevSecOps Engineer Journey — Day 01
+# 🚀 DevSecOps Engineer Journey —> Day 01
 
 > **Goal:** Build a strong foundation in DevSecOps from zero, understand how modern software moves from developer code to production, and develop the operational/security mindset required for a professional DevSecOps Engineer.
 
