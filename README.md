@@ -8,7 +8,7 @@ Build a strong foundation in **DevSecOps, Linux, Networking, Git, CI/CD, Cloud, 
 
 ## 📚 Training Structure
 
-- Day 01 — DevSecOps Fundamentals
+- Day 01 - DevSecOps Fundamentals
 - Day 02 — Linux Fundamentals
 - Day 03 — Networking Fundamentals
 
